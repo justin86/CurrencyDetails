@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="enter_iban_number">Enter IBAN Number</string>
+    <string name="validator_iban_number">Validator IBAN Number</string>
+    <string name ="valid">Valid</string>
+    <string name="iban">IBAN</string>
+    <string name = "currency">Currency</string>
+    <string name="enter_amount"> Enter the Amount</string>
+    <string name="amount">Amount</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="all_currency"> All Currency List</string>
+</resources>
